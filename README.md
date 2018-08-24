@@ -1,4 +1,3 @@
 # Projeto
 
-Feito por Enrico Cedaro
-          Leonardo Macedo
+Feito por Enrico Cedaro e Leonardo Macedo
